@@ -10,7 +10,7 @@
 
 ### Activate Virtual Environment **For Linux** :  `venv/bin/activate`
 
-### [For More information click here ](https://docs.python.org/3/library/venv.html "Python Docs")
+### [For More information click here ](https://docs.python.org/3/library/venv.html " Python Docs")
 
 ### For nstalling all the dependencies : 
 ``` python
