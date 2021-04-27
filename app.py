@@ -1,4 +1,3 @@
-import requests
 import pafy
 link = input("Enter Link of The YT Video: ")
 try:
