@@ -12,7 +12,7 @@
 
 ### [For More information click here ](https://docs.python.org/3/library/venv.html " Python Docs")
 
-### For nstalling all the dependencies : 
+### For installing all the dependencies : 
 ``` python
 pip install -r requirements.txt
 ```
